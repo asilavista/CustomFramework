@@ -4,6 +4,10 @@
 <dict>
 	<key>files</key>
 	<dict>
+		<key>Resources/Dog.jpg</key>
+		<data>
+		WzOUAaNpZmpL3ivwBAscWFRV+IM=
+		</data>
 		<key>Resources/Info.plist</key>
 		<data>
 		gQPUpg4CwPnpAlUvBOhbMpi2iss=
@@ -22,14 +26,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			9jMThJqniXyQsZMXGZry2RacnwZEaGaBVl+qS2DLdHk=
+			V8tM6UXXoNiFI34Xt/mZTH5IZmDQHN8WkkKT42bz/rM=
 			</data>
 		</dict>
 		<key>Modules/CustomFramework.swiftmodule/arm64-apple-macos.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			lQH+ghc5qsT8Z08HTAudKsQqIX95M1DyZIhPwk5EXgs=
+			8rIBZqUwU/IddleRQ6LAw7iiDdybXfC5h0Xo34Y6dRM=
 			</data>
 		</dict>
 		<key>Modules/CustomFramework.swiftmodule/arm64-apple-macos.swiftdoc</key>
@@ -43,28 +47,28 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			lQH+ghc5qsT8Z08HTAudKsQqIX95M1DyZIhPwk5EXgs=
+			8rIBZqUwU/IddleRQ6LAw7iiDdybXfC5h0Xo34Y6dRM=
 			</data>
 		</dict>
 		<key>Modules/CustomFramework.swiftmodule/arm64-apple-macos.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			vW7HmJXCa6kYRzCxpGnlJEbJsk2RTuXwphWVl8whung=
+			3cdIYJ5O2T0MhwtAheKTnpxNsmPQutWtvz/FwSkBALg=
 			</data>
 		</dict>
 		<key>Modules/CustomFramework.swiftmodule/x86_64-apple-macos.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			9jMThJqniXyQsZMXGZry2RacnwZEaGaBVl+qS2DLdHk=
+			V8tM6UXXoNiFI34Xt/mZTH5IZmDQHN8WkkKT42bz/rM=
 			</data>
 		</dict>
 		<key>Modules/CustomFramework.swiftmodule/x86_64-apple-macos.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			S62sbMqUK2DvCugqZFTydR11lZvGEBqDkc2xzwsAba4=
+			s4ksfomQ80T+FaU8iWC+t1vSogSu5vStd8xivUCuzlA=
 			</data>
 		</dict>
 		<key>Modules/CustomFramework.swiftmodule/x86_64-apple-macos.swiftdoc</key>
@@ -78,14 +82,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			S62sbMqUK2DvCugqZFTydR11lZvGEBqDkc2xzwsAba4=
+			s4ksfomQ80T+FaU8iWC+t1vSogSu5vStd8xivUCuzlA=
 			</data>
 		</dict>
 		<key>Modules/CustomFramework.swiftmodule/x86_64-apple-macos.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			vYn6JWJlgTm+m1KL8O9Xg6Jn4wc9ACmgv3vjvdppgsY=
+			joNO9FQWiy3JzkXz168wIDdWFVlnWhjWfx6JeHc0zKc=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -93,6 +97,13 @@
 			<key>hash2</key>
 			<data>
 			9ESJVWgBC/+7N+Yi5+OBggLxAz753tVreG6Wjs9yI8g=
+			</data>
+		</dict>
+		<key>Resources/Dog.jpg</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			Trv03Op5dt6nqUX96RoQn+f6Mmv7CKnhw1SY+cpH5rY=
 			</data>
 		</dict>
 		<key>Resources/Info.plist</key>

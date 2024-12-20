@@ -6,13 +6,10 @@
     "children": [
       {
         "kind": "Import",
-        "name": "Foundation",
-        "printedName": "Foundation",
+        "name": "AppKit",
+        "printedName": "AppKit",
         "declKind": "Import",
-        "moduleName": "CustomFramework",
-        "declAttributes": [
-          "RawDocComment"
-        ]
+        "moduleName": "CustomFramework"
       },
       {
         "kind": "TypeDecl",
@@ -87,6 +84,36 @@
               "AccessControl"
             ],
             "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "getImage",
+            "printedName": "getImage()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "AppKit.NSImage?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "NSImage",
+                    "printedName": "AppKit.NSImage",
+                    "usr": "c:objc(cs)NSImage"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:15CustomFramework3SDKV8getImageSo7NSImageCSgyFZ",
+            "mangledName": "$s15CustomFramework3SDKV8getImageSo7NSImageCSgyFZ",
+            "moduleName": "CustomFramework",
+            "static": true,
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
           }
         ],
         "declKind": "Struct",
@@ -120,14 +147,14 @@
     {
       "filePath": "\/Users\/asigivati\/Desktop\/Development\/SDK Development\/Framework\/CustomFramework\/CustomFramework\/SDK.swift",
       "kind": "BooleanLiteral",
-      "offset": 171,
+      "offset": 234,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/asigivati\/Desktop\/Development\/SDK Development\/Framework\/CustomFramework\/CustomFramework\/SDK.swift",
       "kind": "Array",
-      "offset": 215,
+      "offset": 278,
       "length": 31,
       "value": "[\"privateKey123\"]"
     }
