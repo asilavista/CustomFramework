@@ -88,7 +88,7 @@
           {
             "kind": "Function",
             "name": "getImage",
-            "printedName": "getImage()",
+            "printedName": "getImage(named:)",
             "children": [
               {
                 "kind": "TypeNominal",
@@ -103,11 +103,17 @@
                   }
                 ],
                 "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
               }
             ],
             "declKind": "Func",
-            "usr": "s:15CustomFramework3SDKV8getImageSo7UIImageCSgyFZ",
-            "mangledName": "$s15CustomFramework3SDKV8getImageSo7UIImageCSgyFZ",
+            "usr": "s:15CustomFramework3SDKV8getImage5namedSo7UIImageCSgSS_tFZ",
+            "mangledName": "$s15CustomFramework3SDKV8getImage5namedSo7UIImageCSgSS_tFZ",
             "moduleName": "CustomFramework",
             "static": true,
             "declAttributes": [
