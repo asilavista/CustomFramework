@@ -34,11 +34,12 @@
               }
             ],
             "declKind": "Func",
-            "usr": "s:15CustomFramework3SDKV9configure6apiKeyySS_tFZ",
-            "mangledName": "$s15CustomFramework3SDKV9configure6apiKeyySS_tFZ",
+            "usr": "s:15CustomFramework3SDKC9configure6apiKeyySS_tFZ",
+            "mangledName": "$s15CustomFramework3SDKC9configure6apiKeyySS_tFZ",
             "moduleName": "CustomFramework",
             "static": true,
             "declAttributes": [
+              "Final",
               "AccessControl"
             ],
             "funcSelfKind": "NonMutating"
@@ -55,11 +56,12 @@
               }
             ],
             "declKind": "Func",
-            "usr": "s:15CustomFramework3SDKV10doSomeWorkyyFZ",
-            "mangledName": "$s15CustomFramework3SDKV10doSomeWorkyyFZ",
+            "usr": "s:15CustomFramework3SDKC10doSomeWorkyyFZ",
+            "mangledName": "$s15CustomFramework3SDKC10doSomeWorkyyFZ",
             "moduleName": "CustomFramework",
             "static": true,
             "declAttributes": [
+              "Final",
               "AccessControl"
             ],
             "funcSelfKind": "NonMutating"
@@ -76,11 +78,12 @@
               }
             ],
             "declKind": "Func",
-            "usr": "s:15CustomFramework3SDKV15doSomeOtherWorkyyFZ",
-            "mangledName": "$s15CustomFramework3SDKV15doSomeOtherWorkyyFZ",
+            "usr": "s:15CustomFramework3SDKC15doSomeOtherWorkyyFZ",
+            "mangledName": "$s15CustomFramework3SDKC15doSomeOtherWorkyyFZ",
             "moduleName": "CustomFramework",
             "static": true,
             "declAttributes": [
+              "Final",
               "AccessControl"
             ],
             "funcSelfKind": "NonMutating"
@@ -92,9 +95,17 @@
             "children": [
               {
                 "kind": "TypeNominal",
-                "name": "UIImage",
-                "printedName": "UIKit.UIImage",
-                "usr": "c:objc(cs)UIImage"
+                "name": "Optional",
+                "printedName": "UIKit.UIImage?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "UIImage",
+                    "printedName": "UIKit.UIImage",
+                    "usr": "c:objc(cs)UIImage"
+                  }
+                ],
+                "usr": "s:Sq"
               },
               {
                 "kind": "TypeNominal",
@@ -104,23 +115,25 @@
               }
             ],
             "declKind": "Func",
-            "usr": "s:15CustomFramework3SDKV8getImage8resourceSo7UIImageC21DeveloperToolsSupport0E8ResourceV_tFZ",
-            "mangledName": "$s15CustomFramework3SDKV8getImage8resourceSo7UIImageC21DeveloperToolsSupport0E8ResourceV_tFZ",
+            "usr": "s:15CustomFramework3SDKC8getImage8resourceSo7UIImageCSg21DeveloperToolsSupport0E8ResourceV_tFZ",
+            "mangledName": "$s15CustomFramework3SDKC8getImage8resourceSo7UIImageCSg21DeveloperToolsSupport0E8ResourceV_tFZ",
             "moduleName": "CustomFramework",
             "static": true,
             "declAttributes": [
+              "Final",
               "AccessControl"
             ],
             "funcSelfKind": "NonMutating"
           }
         ],
-        "declKind": "Struct",
-        "usr": "s:15CustomFramework3SDKV",
-        "mangledName": "$s15CustomFramework3SDKV",
+        "declKind": "Class",
+        "usr": "s:15CustomFramework3SDKC",
+        "mangledName": "$s15CustomFramework3SDKC",
         "moduleName": "CustomFramework",
         "declAttributes": [
           "AccessControl"
         ],
+        "hasMissingDesignatedInitializers": true,
         "conformances": [
           {
             "kind": "Conformance",
@@ -314,14 +327,14 @@
     {
       "filePath": "\/Users\/asigivati\/Desktop\/Development\/SDK Development\/Framework\/CustomFramework\/CustomFramework\/SDK.swift",
       "kind": "BooleanLiteral",
-      "offset": 234,
+      "offset": 285,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/asigivati\/Desktop\/Development\/SDK Development\/Framework\/CustomFramework\/CustomFramework\/SDK.swift",
       "kind": "Array",
-      "offset": 278,
+      "offset": 329,
       "length": 31,
       "value": "[\"privateKey123\"]"
     },
