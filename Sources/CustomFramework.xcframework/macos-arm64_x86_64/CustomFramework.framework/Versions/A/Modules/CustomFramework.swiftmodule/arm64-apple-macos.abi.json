@@ -139,6 +139,34 @@
             "mangledName": "$ss9EscapableP"
           }
         ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "CustomFramework"
+      },
+      {
+        "kind": "Import",
+        "name": "AppKit",
+        "printedName": "AppKit",
+        "declKind": "Import",
+        "moduleName": "CustomFramework"
+      },
+      {
+        "kind": "Import",
+        "name": "SwiftUI",
+        "printedName": "SwiftUI",
+        "declKind": "Import",
+        "moduleName": "CustomFramework"
+      },
+      {
+        "kind": "Import",
+        "name": "DeveloperToolsSupport",
+        "printedName": "DeveloperToolsSupport",
+        "declKind": "Import",
+        "moduleName": "CustomFramework"
       }
     ],
     "json_format_version": 8
@@ -157,6 +185,13 @@
       "offset": 278,
       "length": 31,
       "value": "[\"privateKey123\"]"
+    },
+    {
+      "filePath": "\/Users\/asigivati\/Library\/Developer\/Xcode\/DerivedData\/CustomFramework-eqwgefbcgrqfrufcemqopsxqdczr\/Build\/Intermediates.noindex\/ArchiveIntermediates\/CustomFramework\/IntermediateBuildFilesPath\/CustomFramework.build\/Release\/CustomFramework.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 812,
+      "length": 5,
+      "value": "\"Dog\""
     }
   ]
 }

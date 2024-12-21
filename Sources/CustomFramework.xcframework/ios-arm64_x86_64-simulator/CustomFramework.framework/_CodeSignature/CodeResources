@@ -4,9 +4,9 @@
 <dict>
 	<key>files</key>
 	<dict>
-		<key>Dog.jpg</key>
+		<key>Assets.car</key>
 		<data>
-		WzOUAaNpZmpL3ivwBAscWFRV+IM=
+		jv7WM9JtB6BxdEWdTIOz7uJTzKc=
 		</data>
 		<key>Headers/CustomFramework.h</key>
 		<data>
@@ -18,11 +18,11 @@
 		</data>
 		<key>Modules/CustomFramework.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		R82+HqpaXMrfaR60Aosi07fM2hM=
+		DsEmkyLWghQ7DNFXbvtgTXdZtKc=
 		</data>
 		<key>Modules/CustomFramework.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		QG+QdPUbEOw2q6rN8NwgiE10koc=
+		AcwGZwJBBNDcCeNJk3UlfVVmfLc=
 		</data>
 		<key>Modules/CustomFramework.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -30,19 +30,19 @@
 		</data>
 		<key>Modules/CustomFramework.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		QG+QdPUbEOw2q6rN8NwgiE10koc=
+		AcwGZwJBBNDcCeNJk3UlfVVmfLc=
 		</data>
 		<key>Modules/CustomFramework.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		GzPdFaTwNxvnagqzcURZkPR1HA0=
+		/9JahKSRi1i1TNqr0QL2bXTWGpU=
 		</data>
 		<key>Modules/CustomFramework.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		R82+HqpaXMrfaR60Aosi07fM2hM=
+		DsEmkyLWghQ7DNFXbvtgTXdZtKc=
 		</data>
 		<key>Modules/CustomFramework.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		sUY91oRB0dSXZlevngXtC9qKYhg=
+		tiWew/9IEt6kb3NODMnDhvUMyU8=
 		</data>
 		<key>Modules/CustomFramework.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -50,11 +50,11 @@
 		</data>
 		<key>Modules/CustomFramework.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		sUY91oRB0dSXZlevngXtC9qKYhg=
+		tiWew/9IEt6kb3NODMnDhvUMyU8=
 		</data>
 		<key>Modules/CustomFramework.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		F15c1OfOPmUuCCY2W+WLtxW6Q7E=
+		zNMWQhV9A+y+LBKE3V0WLr/BOMQ=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -63,11 +63,11 @@
 	</dict>
 	<key>files2</key>
 	<dict>
-		<key>Dog.jpg</key>
+		<key>Assets.car</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Trv03Op5dt6nqUX96RoQn+f6Mmv7CKnhw1SY+cpH5rY=
+			pDM7op/DP7l/lD8BZDcxfbTRwzkA5hhY8FXyuycaTkU=
 			</data>
 		</dict>
 		<key>Headers/CustomFramework.h</key>
@@ -81,14 +81,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			RQUigG6hpYl/hcWghAifa0omd7jfLHXlqvEkJMGcZrU=
+			a8vhlQIF7/GNG2P6PNr68vFpB7iGLknQrxZzuXvXRFQ=
 			</data>
 		</dict>
 		<key>Modules/CustomFramework.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			xJNkY6ueaZmq8e9oqr59YWFcS5JRF1jLfNTNRLp2bEc=
+			K2kk6p5JkxblVd5aTSTXgI6dp+//HOInxBekQBk+Gxw=
 			</data>
 		</dict>
 		<key>Modules/CustomFramework.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
@@ -102,28 +102,28 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			xJNkY6ueaZmq8e9oqr59YWFcS5JRF1jLfNTNRLp2bEc=
+			K2kk6p5JkxblVd5aTSTXgI6dp+//HOInxBekQBk+Gxw=
 			</data>
 		</dict>
 		<key>Modules/CustomFramework.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			hUX5J2GLgQx1um2pMRSVYzBo8PBQiNovc9zZHG/9O2U=
+			zXOze9ESZUJSfOBFtoQWgytkgUN3dtJaEMYjRt35CrY=
 			</data>
 		</dict>
 		<key>Modules/CustomFramework.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			RQUigG6hpYl/hcWghAifa0omd7jfLHXlqvEkJMGcZrU=
+			a8vhlQIF7/GNG2P6PNr68vFpB7iGLknQrxZzuXvXRFQ=
 			</data>
 		</dict>
 		<key>Modules/CustomFramework.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			+Zt2TD1gMvA52aOOzGOElPrN5UgeXByp2D37v5+iYeg=
+			LeRMRv1u0fPNTGomJbS0jUX691+TxVLu6XNfuBSsaCc=
 			</data>
 		</dict>
 		<key>Modules/CustomFramework.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
@@ -137,14 +137,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			+Zt2TD1gMvA52aOOzGOElPrN5UgeXByp2D37v5+iYeg=
+			LeRMRv1u0fPNTGomJbS0jUX691+TxVLu6XNfuBSsaCc=
 			</data>
 		</dict>
 		<key>Modules/CustomFramework.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Cl/VsixwPzS+uICTajcNrhR78HVMjknaNVDlnlxWpBs=
+			iHWGiCVutQa5F+BxGHTA1+sbE5Qu3qrn15TfeARR9oY=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

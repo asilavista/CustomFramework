@@ -4,9 +4,9 @@
 <dict>
 	<key>files</key>
 	<dict>
-		<key>Dog.jpg</key>
+		<key>Assets.car</key>
 		<data>
-		WzOUAaNpZmpL3ivwBAscWFRV+IM=
+		jv7WM9JtB6BxdEWdTIOz7uJTzKc=
 		</data>
 		<key>Headers/CustomFramework.h</key>
 		<data>
@@ -18,11 +18,11 @@
 		</data>
 		<key>Modules/CustomFramework.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
-		R82+HqpaXMrfaR60Aosi07fM2hM=
+		Hbr57eJb7cjLLx/Qyq6zmeZ64+0=
 		</data>
 		<key>Modules/CustomFramework.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<data>
-		WhhfoitFAlCuCtJ9llUXj5PZbp4=
+		ozBe5bLLRH24fZOzXF+rg/ArZ/0=
 		</data>
 		<key>Modules/CustomFramework.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
@@ -30,11 +30,11 @@
 		</data>
 		<key>Modules/CustomFramework.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<data>
-		WhhfoitFAlCuCtJ9llUXj5PZbp4=
+		ozBe5bLLRH24fZOzXF+rg/ArZ/0=
 		</data>
 		<key>Modules/CustomFramework.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		KM9NCiFApNkem9YDz7pHJnqLYbM=
+		xcV12sKzawVZyArwnFybHpUIYks=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -43,11 +43,11 @@
 	</dict>
 	<key>files2</key>
 	<dict>
-		<key>Dog.jpg</key>
+		<key>Assets.car</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Trv03Op5dt6nqUX96RoQn+f6Mmv7CKnhw1SY+cpH5rY=
+			pDM7op/DP7l/lD8BZDcxfbTRwzkA5hhY8FXyuycaTkU=
 			</data>
 		</dict>
 		<key>Headers/CustomFramework.h</key>
@@ -61,14 +61,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			RQUigG6hpYl/hcWghAifa0omd7jfLHXlqvEkJMGcZrU=
+			cXKscFbZrvC8RxAUao0hR8i7JkT6GaxrfW8Y8KYY1lA=
 			</data>
 		</dict>
 		<key>Modules/CustomFramework.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			RGca+RvyhUqfGf6tOycbalA1z4OiqZosylNYBTR7RLQ=
+			DUPzc3FmlOXpVhIQDfHyCDU8kHBdjNg1qqlqVdj5DQc=
 			</data>
 		</dict>
 		<key>Modules/CustomFramework.swiftmodule/arm64-apple-ios.swiftdoc</key>
@@ -82,14 +82,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			RGca+RvyhUqfGf6tOycbalA1z4OiqZosylNYBTR7RLQ=
+			DUPzc3FmlOXpVhIQDfHyCDU8kHBdjNg1qqlqVdj5DQc=
 			</data>
 		</dict>
 		<key>Modules/CustomFramework.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			vmN5zE5b3gkBUCxEQJQu0iEANjsvbTvXghMxXjgUt7k=
+			XPV1K5IARyqT8dL9I0Iay9U8b4iX9kBnA8gmA95Ff4c=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
