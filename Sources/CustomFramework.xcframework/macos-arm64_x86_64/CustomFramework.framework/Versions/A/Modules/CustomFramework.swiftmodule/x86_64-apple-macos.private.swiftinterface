@@ -16,3 +16,11 @@ public struct SDK {
   public static func doSomeOtherWork()
   public static func getImage(resource: DeveloperToolsSupport.ImageResource) -> AppKit.NSImage
 }
+extension DeveloperToolsSupport.ImageResource {
+  public static var catImage: DeveloperToolsSupport.ImageResource {
+    get
+  }
+  public static var dogImage: DeveloperToolsSupport.ImageResource {
+    get
+  }
+}

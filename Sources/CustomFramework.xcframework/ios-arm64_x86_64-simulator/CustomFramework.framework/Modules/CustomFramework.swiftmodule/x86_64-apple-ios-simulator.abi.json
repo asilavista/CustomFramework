@@ -165,6 +165,147 @@
         "printedName": "DeveloperToolsSupport",
         "declKind": "Import",
         "moduleName": "CustomFramework"
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "ImageResource",
+        "printedName": "ImageResource",
+        "children": [
+          {
+            "kind": "Var",
+            "name": "catImage",
+            "printedName": "catImage",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "ImageResource",
+                "printedName": "DeveloperToolsSupport.ImageResource",
+                "usr": "s:21DeveloperToolsSupport13ImageResourceV"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:21DeveloperToolsSupport13ImageResourceV15CustomFrameworkE03catD0ACvpZ",
+            "mangledName": "$s21DeveloperToolsSupport13ImageResourceV15CustomFrameworkE03catD0ACvpZ",
+            "moduleName": "CustomFramework",
+            "static": true,
+            "isFromExtension": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "ImageResource",
+                    "printedName": "DeveloperToolsSupport.ImageResource",
+                    "usr": "s:21DeveloperToolsSupport13ImageResourceV"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:21DeveloperToolsSupport13ImageResourceV15CustomFrameworkE03catD0ACvgZ",
+                "mangledName": "$s21DeveloperToolsSupport13ImageResourceV15CustomFrameworkE03catD0ACvgZ",
+                "moduleName": "CustomFramework",
+                "static": true,
+                "isFromExtension": true,
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "dogImage",
+            "printedName": "dogImage",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "ImageResource",
+                "printedName": "DeveloperToolsSupport.ImageResource",
+                "usr": "s:21DeveloperToolsSupport13ImageResourceV"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:21DeveloperToolsSupport13ImageResourceV15CustomFrameworkE03dogD0ACvpZ",
+            "mangledName": "$s21DeveloperToolsSupport13ImageResourceV15CustomFrameworkE03dogD0ACvpZ",
+            "moduleName": "CustomFramework",
+            "static": true,
+            "isFromExtension": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "ImageResource",
+                    "printedName": "DeveloperToolsSupport.ImageResource",
+                    "usr": "s:21DeveloperToolsSupport13ImageResourceV"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:21DeveloperToolsSupport13ImageResourceV15CustomFrameworkE03dogD0ACvgZ",
+                "mangledName": "$s21DeveloperToolsSupport13ImageResourceV15CustomFrameworkE03dogD0ACvgZ",
+                "moduleName": "CustomFramework",
+                "static": true,
+                "isFromExtension": true,
+                "accessorKind": "get"
+              }
+            ]
+          }
+        ],
+        "declKind": "Struct",
+        "usr": "s:21DeveloperToolsSupport13ImageResourceV",
+        "mangledName": "$s21DeveloperToolsSupport13ImageResourceV",
+        "moduleName": "DeveloperToolsSupport",
+        "intro_Macosx": "14.0",
+        "intro_iOS": "17.0",
+        "intro_tvOS": "17.0",
+        "intro_watchOS": "10.0",
+        "declAttributes": [
+          "Available",
+          "Available",
+          "Available",
+          "Available"
+        ],
+        "isExternal": true,
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Hashable",
+            "printedName": "Hashable",
+            "usr": "s:SH",
+            "mangledName": "$sSH"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Sendable",
+            "printedName": "Sendable",
+            "usr": "s:s8SendableP",
+            "mangledName": "$ss8SendableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Equatable",
+            "printedName": "Equatable",
+            "usr": "s:SQ",
+            "mangledName": "$sSQ"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          }
+        ]
       }
     ],
     "json_format_version": 8
