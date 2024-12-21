@@ -14,5 +14,5 @@ public struct SDK {
   public static func configure(apiKey: Swift.String)
   public static func doSomeWork()
   public static func doSomeOtherWork()
-  public static func getImage() -> AppKit.NSImage?
+  public static func getImage(resource: DeveloperToolsSupport.ImageResource) -> AppKit.NSImage
 }

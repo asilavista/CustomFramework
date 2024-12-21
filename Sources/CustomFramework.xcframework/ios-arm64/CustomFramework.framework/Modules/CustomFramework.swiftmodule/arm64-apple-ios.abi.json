@@ -88,26 +88,24 @@
           {
             "kind": "Function",
             "name": "getImage",
-            "printedName": "getImage()",
+            "printedName": "getImage(resource:)",
             "children": [
               {
                 "kind": "TypeNominal",
-                "name": "Optional",
-                "printedName": "UIKit.UIImage?",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "UIImage",
-                    "printedName": "UIKit.UIImage",
-                    "usr": "c:objc(cs)UIImage"
-                  }
-                ],
-                "usr": "s:Sq"
+                "name": "UIImage",
+                "printedName": "UIKit.UIImage",
+                "usr": "c:objc(cs)UIImage"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "ImageResource",
+                "printedName": "DeveloperToolsSupport.ImageResource",
+                "usr": "s:21DeveloperToolsSupport13ImageResourceV"
               }
             ],
             "declKind": "Func",
-            "usr": "s:15CustomFramework3SDKV8getImageSo7UIImageCSgyFZ",
-            "mangledName": "$s15CustomFramework3SDKV8getImageSo7UIImageCSgyFZ",
+            "usr": "s:15CustomFramework3SDKV8getImage8resourceSo7UIImageC21DeveloperToolsSupport0E8ResourceV_tFZ",
+            "mangledName": "$s15CustomFramework3SDKV8getImage8resourceSo7UIImageC21DeveloperToolsSupport0E8ResourceV_tFZ",
             "moduleName": "CustomFramework",
             "static": true,
             "declAttributes": [
@@ -190,6 +188,13 @@
       "filePath": "\/Users\/asigivati\/Library\/Developer\/Xcode\/DerivedData\/CustomFramework-eqwgefbcgrqfrufcemqopsxqdczr\/Build\/Intermediates.noindex\/ArchiveIntermediates\/CustomFramework\/IntermediateBuildFilesPath\/CustomFramework.build\/Release-iphoneos\/CustomFramework.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 812,
+      "length": 5,
+      "value": "\"Cat\""
+    },
+    {
+      "filePath": "\/Users\/asigivati\/Library\/Developer\/Xcode\/DerivedData\/CustomFramework-eqwgefbcgrqfrufcemqopsxqdczr\/Build\/Intermediates.noindex\/ArchiveIntermediates\/CustomFramework\/IntermediateBuildFilesPath\/CustomFramework.build\/Release-iphoneos\/CustomFramework.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 955,
       "length": 5,
       "value": "\"Dog\""
     }

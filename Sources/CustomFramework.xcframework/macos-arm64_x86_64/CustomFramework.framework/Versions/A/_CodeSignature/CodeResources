@@ -6,7 +6,7 @@
 	<dict>
 		<key>Resources/Assets.car</key>
 		<data>
-		6J1G8jB8Yrdgc125mCo8Be4qzho=
+		CIyI4n3w75D055UYvYBBl4U675M=
 		</data>
 		<key>Resources/Info.plist</key>
 		<data>
@@ -26,14 +26,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			519ympYezIltKURZZ7QCRfd3fTiYfyChQhOlOm75J2c=
+			CNRhATvPC94IfsuJuDbaebKKpZg9AAKfligMippaPsI=
 			</data>
 		</dict>
 		<key>Modules/CustomFramework.swiftmodule/arm64-apple-macos.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			ZQtdI6lagvWy7l8KbPEEix2kWxwZjgeoi4mo4i+Jdgw=
+			HPagPUcKhGebtLD01h+J9i9IaKeWZ9JFly7M+ycrmz0=
 			</data>
 		</dict>
 		<key>Modules/CustomFramework.swiftmodule/arm64-apple-macos.swiftdoc</key>
@@ -47,28 +47,28 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			ZQtdI6lagvWy7l8KbPEEix2kWxwZjgeoi4mo4i+Jdgw=
+			HPagPUcKhGebtLD01h+J9i9IaKeWZ9JFly7M+ycrmz0=
 			</data>
 		</dict>
 		<key>Modules/CustomFramework.swiftmodule/arm64-apple-macos.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			hNfM8npDaAbs/beloV0shqIoB0I7cVoTtyGmrN1DkCo=
+			H618A9mPUSo4Qtu7xkOBV9yEhz5LykmYHrpRBT1gNWw=
 			</data>
 		</dict>
 		<key>Modules/CustomFramework.swiftmodule/x86_64-apple-macos.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			519ympYezIltKURZZ7QCRfd3fTiYfyChQhOlOm75J2c=
+			CNRhATvPC94IfsuJuDbaebKKpZg9AAKfligMippaPsI=
 			</data>
 		</dict>
 		<key>Modules/CustomFramework.swiftmodule/x86_64-apple-macos.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			SiFgndTeKlJgBr63zmQRQQKACuEk2z9MQhUZLWx2T4M=
+			lRoneGEKpqZRf/dyFnEA37ManFpK3X3nd/moHUqTFyE=
 			</data>
 		</dict>
 		<key>Modules/CustomFramework.swiftmodule/x86_64-apple-macos.swiftdoc</key>
@@ -82,14 +82,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			SiFgndTeKlJgBr63zmQRQQKACuEk2z9MQhUZLWx2T4M=
+			lRoneGEKpqZRf/dyFnEA37ManFpK3X3nd/moHUqTFyE=
 			</data>
 		</dict>
 		<key>Modules/CustomFramework.swiftmodule/x86_64-apple-macos.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			jnAPLRczEyHlRQjM88NQWWlpE8Ro7SZ/fi3xw65xzv8=
+			18A1a890wRNl3FPqCyQDL3TIvFUWbLixhmJ9RGZ2tNc=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -103,7 +103,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			wHTWKyr0ia6vR29AWvd/a1x8De/rZLG/Jt1X6+Cg0N0=
+			QbpADU+oQVVeJOUL4ptarCx1eLlJ/D03NjfI764wnw4=
 			</data>
 		</dict>
 		<key>Resources/Info.plist</key>
