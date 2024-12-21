@@ -11,10 +11,11 @@ import _Concurrency
 import _StringProcessing
 import _SwiftConcurrencyShims
 @_hasMissingDesignatedInitializers public class SDK {
-  public static func configure(apiKey: Swift.String)
-  public static func doSomeWork()
-  public static func doSomeOtherWork()
-  public static func getImage(resource: DeveloperToolsSupport.ImageResource) -> AppKit.NSImage?
+  public static let shared: CustomFramework.SDK
+  public func configure(apiKey: Swift.String)
+  public func doSomeWork()
+  public func doSomeOtherWork()
+  public func getImage(resource: DeveloperToolsSupport.ImageResource) -> AppKit.NSImage?
   @objc deinit
 }
 extension DeveloperToolsSupport.ImageResource {

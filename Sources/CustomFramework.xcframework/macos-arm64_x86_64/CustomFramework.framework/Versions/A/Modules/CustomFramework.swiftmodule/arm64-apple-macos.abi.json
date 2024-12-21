@@ -17,6 +17,57 @@
         "printedName": "SDK",
         "children": [
           {
+            "kind": "Var",
+            "name": "shared",
+            "printedName": "shared",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "SDK",
+                "printedName": "CustomFramework.SDK",
+                "usr": "s:15CustomFramework3SDKC"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:15CustomFramework3SDKC6sharedACvpZ",
+            "mangledName": "$s15CustomFramework3SDKC6sharedACvpZ",
+            "moduleName": "CustomFramework",
+            "static": true,
+            "declAttributes": [
+              "HasInitialValue",
+              "Final",
+              "HasStorage",
+              "AccessControl"
+            ],
+            "isLet": true,
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "SDK",
+                    "printedName": "CustomFramework.SDK",
+                    "usr": "s:15CustomFramework3SDKC"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:15CustomFramework3SDKC6sharedACvgZ",
+                "mangledName": "$s15CustomFramework3SDKC6sharedACvgZ",
+                "moduleName": "CustomFramework",
+                "static": true,
+                "implicit": true,
+                "declAttributes": [
+                  "Final"
+                ],
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
             "kind": "Function",
             "name": "configure",
             "printedName": "configure(apiKey:)",
@@ -34,12 +85,10 @@
               }
             ],
             "declKind": "Func",
-            "usr": "s:15CustomFramework3SDKC9configure6apiKeyySS_tFZ",
-            "mangledName": "$s15CustomFramework3SDKC9configure6apiKeyySS_tFZ",
+            "usr": "s:15CustomFramework3SDKC9configure6apiKeyySS_tF",
+            "mangledName": "$s15CustomFramework3SDKC9configure6apiKeyySS_tF",
             "moduleName": "CustomFramework",
-            "static": true,
             "declAttributes": [
-              "Final",
               "AccessControl"
             ],
             "funcSelfKind": "NonMutating"
@@ -56,12 +105,10 @@
               }
             ],
             "declKind": "Func",
-            "usr": "s:15CustomFramework3SDKC10doSomeWorkyyFZ",
-            "mangledName": "$s15CustomFramework3SDKC10doSomeWorkyyFZ",
+            "usr": "s:15CustomFramework3SDKC10doSomeWorkyyF",
+            "mangledName": "$s15CustomFramework3SDKC10doSomeWorkyyF",
             "moduleName": "CustomFramework",
-            "static": true,
             "declAttributes": [
-              "Final",
               "AccessControl"
             ],
             "funcSelfKind": "NonMutating"
@@ -78,12 +125,10 @@
               }
             ],
             "declKind": "Func",
-            "usr": "s:15CustomFramework3SDKC15doSomeOtherWorkyyFZ",
-            "mangledName": "$s15CustomFramework3SDKC15doSomeOtherWorkyyFZ",
+            "usr": "s:15CustomFramework3SDKC15doSomeOtherWorkyyF",
+            "mangledName": "$s15CustomFramework3SDKC15doSomeOtherWorkyyF",
             "moduleName": "CustomFramework",
-            "static": true,
             "declAttributes": [
-              "Final",
               "AccessControl"
             ],
             "funcSelfKind": "NonMutating"
@@ -115,12 +160,10 @@
               }
             ],
             "declKind": "Func",
-            "usr": "s:15CustomFramework3SDKC8getImage8resourceSo7NSImageCSg21DeveloperToolsSupport0E8ResourceV_tFZ",
-            "mangledName": "$s15CustomFramework3SDKC8getImage8resourceSo7NSImageCSg21DeveloperToolsSupport0E8ResourceV_tFZ",
+            "usr": "s:15CustomFramework3SDKC8getImage8resourceSo7NSImageCSg21DeveloperToolsSupport0E8ResourceV_tF",
+            "mangledName": "$s15CustomFramework3SDKC8getImage8resourceSo7NSImageCSg21DeveloperToolsSupport0E8ResourceV_tF",
             "moduleName": "CustomFramework",
-            "static": true,
             "declAttributes": [
-              "Final",
               "AccessControl"
             ],
             "funcSelfKind": "NonMutating"
@@ -334,7 +377,7 @@
     {
       "filePath": "\/Users\/asigivati\/Desktop\/Development\/SDK Development\/Framework\/CustomFramework\/CustomFramework\/SDK.swift",
       "kind": "Array",
-      "offset": 329,
+      "offset": 322,
       "length": 31,
       "value": "[\"privateKey123\"]"
     },
