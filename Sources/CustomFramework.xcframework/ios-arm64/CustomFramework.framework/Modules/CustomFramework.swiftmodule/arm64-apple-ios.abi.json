@@ -174,7 +174,8 @@
         "mangledName": "$s15CustomFramework3SDKC",
         "moduleName": "CustomFramework",
         "declAttributes": [
-          "AccessControl"
+          "AccessControl",
+          "RawDocComment"
         ],
         "hasMissingDesignatedInitializers": true,
         "conformances": [
@@ -370,16 +371,16 @@
     {
       "filePath": "\/Users\/asigivati\/Desktop\/Development\/SDK Development\/Framework\/CustomFramework\/CustomFramework\/SDK.swift",
       "kind": "BooleanLiteral",
-      "offset": 285,
+      "offset": 341,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/asigivati\/Desktop\/Development\/SDK Development\/Framework\/CustomFramework\/CustomFramework\/SDK.swift",
       "kind": "Array",
-      "offset": 322,
-      "length": 31,
-      "value": "[\"privateKey123\"]"
+      "offset": 378,
+      "length": 50,
+      "value": "[\"privateKey123\", \"privateKey12345\"]"
     },
     {
       "filePath": "\/Users\/asigivati\/Library\/Developer\/Xcode\/DerivedData\/CustomFramework-eqwgefbcgrqfrufcemqopsxqdczr\/Build\/Intermediates.noindex\/ArchiveIntermediates\/CustomFramework\/IntermediateBuildFilesPath\/CustomFramework.build\/Release-iphoneos\/CustomFramework.build\/DerivedSources\/GeneratedAssetSymbols.swift",
