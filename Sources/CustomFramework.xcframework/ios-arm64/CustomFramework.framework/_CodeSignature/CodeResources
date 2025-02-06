@@ -8,18 +8,6 @@
 		<data>
 		V4WkaI7ZzAZRXbZKb9pAr51q6P4=
 		</data>
-		<key>Frameworks/Coralogix.framework/Coralogix</key>
-		<data>
-		c7h2G6cw9oxfSknxZt4yVAMAAZ4=
-		</data>
-		<key>Frameworks/Coralogix.framework/Info.plist</key>
-		<data>
-		GFaiDH/7OwC0cwWmT/uPzINTjOQ=
-		</data>
-		<key>Frameworks/Coralogix.framework/_CodeSignature/CodeResources</key>
-		<data>
-		sZGGPacWDBM42QL1BUAsO63Z7PI=
-		</data>
 		<key>Headers/CustomFramework.h</key>
 		<data>
 		RWportcgPah93GDwpYIQGc2X67w=
@@ -60,27 +48,6 @@
 			<key>hash2</key>
 			<data>
 			W4NSMUzh/Q4f5oM8d1VZIm75Oz3vSzBwTsk34L+lt5M=
-			</data>
-		</dict>
-		<key>Frameworks/Coralogix.framework/Coralogix</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			iKv4h35x8FHcc7W2TluYd5YYoi5c7v8C5ZRgU7p6Oyk=
-			</data>
-		</dict>
-		<key>Frameworks/Coralogix.framework/Info.plist</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			1oFxeKHaEiwp8CQSblZJE0sDNNPkIJFGrOwotflhZ9k=
-			</data>
-		</dict>
-		<key>Frameworks/Coralogix.framework/_CodeSignature/CodeResources</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			sCBrfzo4ItljXyz11J59QHkodg9BuwU9xQj3fIRP/h0=
 			</data>
 		</dict>
 		<key>Headers/CustomFramework.h</key>
