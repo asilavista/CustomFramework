@@ -8,6 +8,18 @@
 		<data>
 		V4WkaI7ZzAZRXbZKb9pAr51q6P4=
 		</data>
+		<key>Frameworks/Coralogix.framework/Coralogix</key>
+		<data>
+		5R/AHn0rPcVrqh/RKYcT9FvcF9c=
+		</data>
+		<key>Frameworks/Coralogix.framework/Info.plist</key>
+		<data>
+		GFaiDH/7OwC0cwWmT/uPzINTjOQ=
+		</data>
+		<key>Frameworks/Coralogix.framework/_CodeSignature/CodeResources</key>
+		<data>
+		sZGGPacWDBM42QL1BUAsO63Z7PI=
+		</data>
 		<key>Headers/CustomFramework.h</key>
 		<data>
 		RWportcgPah93GDwpYIQGc2X67w=
@@ -18,7 +30,7 @@
 		</data>
 		<key>Modules/CustomFramework.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
-		qECdabxHsmfhhTA5kKmWHuAxPGw=
+		BoFeQc87JrNBAA1ao68v71zhyZU=
 		</data>
 		<key>Modules/CustomFramework.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<data>
@@ -34,7 +46,7 @@
 		</data>
 		<key>Modules/CustomFramework.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		2fg36/GYXonRkezpojMS9OncuP0=
+		Kkz0ZJEgkjZ0MrSfqelOJmYLpqk=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -50,6 +62,27 @@
 			W4NSMUzh/Q4f5oM8d1VZIm75Oz3vSzBwTsk34L+lt5M=
 			</data>
 		</dict>
+		<key>Frameworks/Coralogix.framework/Coralogix</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			tOQHCCRUPjs+cNYh31J8i9iopa7Zy3om4yJdVOy9uag=
+			</data>
+		</dict>
+		<key>Frameworks/Coralogix.framework/Info.plist</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			1oFxeKHaEiwp8CQSblZJE0sDNNPkIJFGrOwotflhZ9k=
+			</data>
+		</dict>
+		<key>Frameworks/Coralogix.framework/_CodeSignature/CodeResources</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			sCBrfzo4ItljXyz11J59QHkodg9BuwU9xQj3fIRP/h0=
+			</data>
+		</dict>
 		<key>Headers/CustomFramework.h</key>
 		<dict>
 			<key>hash2</key>
@@ -61,7 +94,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Xm2VXCCanB7kOydUUOeupuAYj/zjLT7nnf7pukGidbg=
+			w+UB+rsUpvgvu/ydV3QrWZvAoCU4iGGbMcWATIzo36w=
 			</data>
 		</dict>
 		<key>Modules/CustomFramework.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
@@ -89,7 +122,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			wZpb1DxkBr1wX3pxG1+Zwx0M1TvC5fgBufkNkXd5wyI=
+			wzm7qrb+RwIRHac+Nxxs5lNODvq5+RxD/wAS2i65C7g=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

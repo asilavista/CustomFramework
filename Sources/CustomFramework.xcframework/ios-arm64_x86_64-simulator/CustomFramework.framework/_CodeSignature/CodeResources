@@ -8,6 +8,18 @@
 		<data>
 		V4WkaI7ZzAZRXbZKb9pAr51q6P4=
 		</data>
+		<key>Frameworks/Coralogix.framework/Coralogix</key>
+		<data>
+		ydwE/J5DHeTwfIx1+Bebi4RQPeI=
+		</data>
+		<key>Frameworks/Coralogix.framework/Info.plist</key>
+		<data>
+		dH+UrDTwg81/q6G3gh5fjfK7TRY=
+		</data>
+		<key>Frameworks/Coralogix.framework/_CodeSignature/CodeResources</key>
+		<data>
+		S+3eCj+qqDJvAQ6oni9kpRX/Z8U=
+		</data>
 		<key>Headers/CustomFramework.h</key>
 		<data>
 		RWportcgPah93GDwpYIQGc2X67w=
@@ -18,7 +30,7 @@
 		</data>
 		<key>Modules/CustomFramework.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		ESXH2ouh5CuJqtURpZKAX+a3CLI=
+		M6ixYzS669lHFcnOWmJlaCDThdo=
 		</data>
 		<key>Modules/CustomFramework.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -34,11 +46,11 @@
 		</data>
 		<key>Modules/CustomFramework.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		5E65vsanQ57C3wGBDzKtIBie0U8=
+		5uMb+W7zUEYn68/M0QwsRrXXHzM=
 		</data>
 		<key>Modules/CustomFramework.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		ESXH2ouh5CuJqtURpZKAX+a3CLI=
+		M6ixYzS669lHFcnOWmJlaCDThdo=
 		</data>
 		<key>Modules/CustomFramework.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -54,7 +66,7 @@
 		</data>
 		<key>Modules/CustomFramework.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		K3TBqPP4AglwO4ry5FELbL7Jgj4=
+		zVbalyJDWjsl2JOZ9lcl78jLc/A=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -70,6 +82,27 @@
 			W4NSMUzh/Q4f5oM8d1VZIm75Oz3vSzBwTsk34L+lt5M=
 			</data>
 		</dict>
+		<key>Frameworks/Coralogix.framework/Coralogix</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			nvTWSXt5zMqzC8LorCwcKUjAoQ5KX5kxuzk+MHfhi/o=
+			</data>
+		</dict>
+		<key>Frameworks/Coralogix.framework/Info.plist</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			7ZILTJwGl3XEuq/zovs1I2XDBfxFfE5WTsB9e/doSOs=
+			</data>
+		</dict>
+		<key>Frameworks/Coralogix.framework/_CodeSignature/CodeResources</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			J5JhByAeXG6SeehXpULSQoH1wu5p6z/gz57vfaRwHxA=
+			</data>
+		</dict>
 		<key>Headers/CustomFramework.h</key>
 		<dict>
 			<key>hash2</key>
@@ -81,7 +114,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			6p+/+XK24QhEDdNlbAByKB/YvpIifTrivtV2fYB3cHE=
+			SkpKKgDjupBiYlEldXjay/msz3WRAx1NuqAbk8TPF/k=
 			</data>
 		</dict>
 		<key>Modules/CustomFramework.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
@@ -109,14 +142,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			8BZqjhL0ENbGP2NWpdcpvvl6/IWU2F+z1zBAR66x/K0=
+			3g6klaQ4zb5780yLuO7i4l1dw4oFfsrji2+mRtwdFpE=
 			</data>
 		</dict>
 		<key>Modules/CustomFramework.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			6p+/+XK24QhEDdNlbAByKB/YvpIifTrivtV2fYB3cHE=
+			SkpKKgDjupBiYlEldXjay/msz3WRAx1NuqAbk8TPF/k=
 			</data>
 		</dict>
 		<key>Modules/CustomFramework.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
@@ -144,7 +177,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			JogjX/gORItH/9zoA2jxYF8DtvLS2dm6IeI8fgf/PIc=
+			mTfWU0f00YCL8o7kABALuUTG5LCwil491KGb/z40eVM=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
